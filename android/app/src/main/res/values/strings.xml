@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">GripTest</string>
-    <string name="title_activity_main">GripTest</string>
-    <string name="package_name">com.test.grip</string>
-    <string name="custom_url_scheme">com.test.grip</string>
-</resources>
