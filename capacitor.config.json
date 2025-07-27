@@ -1,0 +1,15 @@
+{
+  "appId": "com.test.grip",
+  "appName": "GripTest",
+  "webDir": "www",
+  "plugins": {
+    "BluetoothLe": {
+      "displayStrings": {
+        "scanning": "掃描中...",
+        "cancel": "取消",
+        "availableDevices": "可用設備",
+        "noDeviceFound": "找不到設備"
+      }
+    }
+  }
+}
